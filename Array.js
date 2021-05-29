@@ -113,7 +113,7 @@ for (let i=0; i<arr.length-1; i++)
     if (found == false) 
         console.log("No such triplets") 
  
-  //5. Find digit that are repeated twice like 11,22
+  //5. Find digit that are repeated twice like 11,22.
   console.log("Numbers with same digits are : ")
 for(let i = 1; i<100;i++)
 {
